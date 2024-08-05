@@ -1,0 +1,1 @@
+# winks-progama-o.js
